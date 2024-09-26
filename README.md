@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shwalalala
-- 🌱 I’m currently a 2nd year student in CIT University. Trying to learning C++ and Java.
+- 🌱 I’m currently trying to learning C++ and Java.
 - 😄 Pronouns: she/her
 
 <!---
